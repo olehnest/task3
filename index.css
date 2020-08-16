@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+  display: inline;
+}
+
+.menu a {
+  text-decoration: none;
+  font-family: Roboto;
+  color: #5757a0;
+  display: inline-block;
+  padding: 10px 80px;
+  background-color: beige;
+  border-bottom: 2px solid #5757a0;
+}
+
+h4 {
+	width: 608px;
+	text-align: center;
+    background-color: beige;
+    border-left: 6px solid #5757a0;
+    color: #5757a0;
+    padding: 30px 50px;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+h3 {
+	width: 608px;
+	text-align: center;
+    background-color: beige;
+    border-left: 3px solid #5757a0;
+    color: black;
+    padding: 30px 50px;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+h2
+{
+	width: 608px;
+	text-align: center;
+    background-color: beige;
+    border-left: 6px solid #5757a0;
+    color: #5757a0;
+    padding: 30px 50px;
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+
+.footer-test {width: 608px;
+	text-align: center;
+    background-color: beige;
+    border-left: 6px solid #5757a0;
+    color: #5757a0;
+    padding: 10px 50px;
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.events a {
+  font-family: Roboto;
+  color: #5757a0;
+  background-color: beige;
+}
+
